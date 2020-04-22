@@ -1,0 +1,226 @@
+﻿tile.thaumicaugmentation.vis_regenerator.name=灵气再生器
+tile.thaumicaugmentation.warded_chest.name=守卫者箱子
+tile.thaumicaugmentation.arcane_door.name=奥能之扉
+tile.thaumicaugmentation.arcane_door_greatwood.name=奥能之扉
+tile.thaumicaugmentation.arcane_door_thaumium.name=神秘奥能之扉
+tile.thaumicaugmentation.arcane_door_silverwood.name=银树奥能之扉
+tile.thaumicaugmentation.temporary_light.name=投射光源
+tile.thaumicaugmentation.stone.stone_void.name=虚空石
+tile.thaumicaugmentation.stone.stone_taint_nodecay.name=腐化虚空石
+tile.thaumicaugmentation.stone.soil_stone_taint_nodecay.name=腐化虚空砂石
+tile.thaumicaugmentation.arcane_trapdoor_wood.name=奥术活板门
+tile.thaumicaugmentation.arcane_trapdoor_metal.name=神秘奥术活板门
+tile.thaumicaugmentation.arcane_trapdoor_silverwood.name=银树奥术活板门
+tile.thaumicaugmentation.taint_flower.name=污染花
+
+item.thaumicaugmentation.gauntlet.thaumium.name=神秘法师护手
+item.thaumicaugmentation.gauntlet.void.name=虚空法师护手
+item.thaumicaugmentation.material.lattice.name=灵气再生晶体
+item.thaumicaugmentation.material.warding_sigil.name=奥术印记:守护
+item.thaumicaugmentation.material.amalgamated_gear.name=齿轮组
+item.thaumicaugmentation.material.rift_energy_cell.name=元始能量导体
+item.thaumicaugmentation.material.harness_base.name=缰绳底座
+item.thaumicaugmentation.seal_copier.name=印记拷贝铃铛
+item.thaumicaugmentation.arcane_door.greatwood.name=奥能之扉
+item.thaumicaugmentation.arcane_door.thaumium.name=神秘奥能之扉
+item.thaumicaugmentation.arcane_door.silverwood.name=银树奥能之扉
+item.thaumicaugmentation.key.iron.name=铁钥匙
+item.thaumicaugmentation.key.brass.name=黄铜钥匙
+item.thaumicaugmentation.key.thaumium.name=神秘之钥
+item.thaumicaugmentation.void_boots.name=虚空神秘使长靴
+item.thaumicaugmentation.rift_seed.flux.name=腐化裂隙种子
+item.thaumicaugmentation.rift_seed.flux_aura.name=咒波种子
+item.thaumicaugmentation.augment_caster_elemental.name=元素谐振器
+item.thaumicaugmentation.augment_caster_rift_energy_storage.name=元始能量电池
+item.thaumicaugmentation.fracture_locator.name=裂隙指南针
+item.thaumicaugmentation.augment_custom.name=模块化法术增强
+item.thaumicaugmentation.morphic_tool.name=变形工具
+item.thaumicaugmentation.primal_cutter.name=元始锏
+
+item.thaumicaugmentation.strength_experience.name=谐振水晶:求知
+item.thaumicaugmentation.strength_overworld.name=谐振水晶:主世界
+item.thaumicaugmentation.strength_nether.name=谐振水晶:地狱
+item.thaumicaugmentation.strength_end.name=谐振水晶:末地
+item.thaumicaugmentation.strength_emptiness.name=谐振水晶:虚空
+item.thaumicaugmentation.strength_elemental.name=强化部件:元素
+item.thaumicaugmentation.strength_frenzy.name=强化部件:流控
+
+item.thaumicaugmentation.effect_power.name=调节核心:核心增强
+item.thaumicaugmentation.effect_cost.name=调节核心:耗能减少
+item.thaumicaugmentation.effect_cast_speed.name=调节核心:施法速度
+
+item.seal.attack.name=操控印记:净土
+item.seal.attack_advanced.name=高级操控印记:净土
+golem.prop.other=把其他人作为攻击目标
+golem.prop.sight=攻击视野内的目标
+
+entity.thaumicaugmentation.dimensional_fracture.name=空间裂隙
+
+itemGroup.thaumicaugmentation=神秘增强
+
+thaumicaugmentation.text.key_bound=钥匙绑定
+thaumicaugmentation.text.key_bound_object=钥匙绑定到 %s 在 %s
+thaumicaugmentation.text.key_unbound=钥匙解除绑定
+thaumicaugmentation.text.bound_to=绑定到: %s
+thaumicaugmentation.text.bound_to_type=绑定方块: %s
+thaumicaugmentation.text.bound_to_pos=绑定位置: %s
+thaumicaugmentation.text.rift_seed_size=大小: %d
+thaumicaugmentation.text.flux_seed_amount=通量: %d
+thaumicaugmentation.text.rift_seed_grown=增加
+thaumicaugmentation.text.rift_too_close=另一个腐化裂隙就在附近，这里不能再有腐化缝隙了...
+thaumicaugmentation.text.no_fracture_target=这个裂隙不会通往任何地方...
+thaumicaugmentation.text.augmented=§c增强§r (%d/%d)
+thaumicaugmentation.text.elemental_aspect=方位: %s
+thaumicaugmentation.text.stored_energy=元始能量等级: %s
+thaumicaugmentation.text.energy_none=§4None
+thaumicaugmentation.text.energy_minimal=§c接近崩溃的
+thaumicaugmentation.text.energy_very_weak=§6非常虚弱的
+thaumicaugmentation.text.energy_weak=§e虚弱的
+thaumicaugmentation.text.energy_medium=§a一般的
+thaumicaugmentation.text.energy_strong=§a强大的
+thaumicaugmentation.text.energy_max=§2无与伦比的
+thaumicaugmentation.text.entered_void=§5你看到了一片虚无
+thaumicaugmentation.text.stored_seal=印记: %s
+thaumicaugmentation.text.strength_provider_any=任何调整
+thaumicaugmentation.text.effect_provider_any=任何强化水晶
+thaumicaugmentation.text.drawing_disabled=能力已禁用
+
+thaumicaugmentation.subtitle.spooky=诡异的声音
+thaumicaugmentation.subtitle.spooky_wind=风在呼啸
+thaumicaugmentation.subtitle.rift_energy_zap=元始能量在毁灭
+
+focus.thaumicaugmentation.light.name=光源
+focus.thaumicaugmentation.light.text=在目标位置创建灯光。这个光源会一直持续到被破坏。
+focus.thaumicaugmentation.light.intensity=亮度
+focus.thaumicaugmentation.ward.name=守护
+focus.thaumicaugmentation.ward.text=使大多数方块变得非常耐用，几乎不受采掘、爆炸和火焰的影响。
+
+tc.research_category.THAUMIC_AUGMENTATION=增强
+thaumicaugmentation.research.thaumic_augmentation_base.title=神秘增强
+thaumicaugmentation.research.thaumic_augmentation_base.0=我将把这一部分魔导手册里的各种发现传授给其他人. 谁知道我会想出什么主意呢?
+
+thaumicaugmentation.research.gauntlet_thaumium.title=神秘法师护手
+thaumicaugmentation.research.gauntlet_thaumium.0=如我之前所发现的那样，铁是一种相对较差的Vis导体。虽然他实现了作用，但无法说是最好的方式。现在我已经发现了神秘锭，对旧的法师护手式样进行一番改进使之更加高效应该是一个简单的任务，希望我们能一次取得成功。<BR>在我做关于法师护手的改进工作的时候，不妨顺便研究一下魔法织物作为皮革替代品的可行性。
+thaumicaugmentation.research.gauntlet_thaumium.1=我已经成功制造出使用了新材料的法师护手，我称它为“神秘法师护手”。这听起来太没劲了，也许可以用铁砧改个炫酷一些的名字，神秘锭的加入使得我利用Vis的效率提高了10%，同时也稍微减少了施法之间的冷却时间。<BR>魔法织物似乎很容易上色——我只需要把神秘法师护手和一个或多个染料放在工作台上，就能得到一个新的炫彩神秘法师护手。如果想要洗掉染料，只需要将染了色的神秘法师护手放进一个装了水的的炼药锅里就可以了
+
+thaumicaugmentation.research.gauntlet_void.title=虚空法师护手
+thaumicaugmentation.research.gauntlet_void.0=使用神秘锭制造法师护手的成功使我不禁想知道虚空金属是否拥有像神秘锭一样对Vis良好的导性。即使不是，我也很难相信它的形态特性不会带来任何好处。
+thaumicaugmentation.research.gauntlet_void.1=虚空金属的成绩惊讶地令人失望。我看到施法时的Vis成本降低了一点，但还不足以抵消神秘锭更快的充能速度。<BR>也许我一直在寻找错误的组件来改进...
+thaumicaugmentation.research.gauntlet_void.2=看来我的猜想已经被证明是正确的。将魔力谐振器更换为虚空预言者的珍珠后，我感觉到与周围灵气的联系更加紧密。事实上，如此紧密的联系，不仅使我的护手原型机有30%的Vis减免，而且它还吸收了更大范围的Vis，希望这将意味着我使用非常复杂的法术时不会像以前那样使我身边的灵气迅速的耗尽<BR>幸运的是，虚空法师护手染色的能力是从它的前身保留下来的。染料的使用和去除方法与神秘法师护手相同。
+
+thaumicaugmentation.research.vis_regenerator.title=灵气再生器
+thaumicaugmentation.research.vis_regenerator.0=正如我所体验到的，一次高级奥术制造或复杂施法会让附近区域的灵气完全消耗殆尽。我应该试着找一些比自然恢复更快的方法来帮助恢复灵气。
+thaumicaugmentation.research.vis_regenerator.1=我已经为被我称为灵气再生器的设备制定了计划。它的核心由银树材料和一个源质滤管组成，并带有一个外壳，该设备将试图通过核心“再循环”灵气<BR>该设备的一个有趣的特点是，其有效性似乎与区域灵气的总容量有关。换句话说，那些生来Vis总含量就低的区域会有更高的再生速度。<BR>按照惯例，如果我需要关闭灵气再生器的话，应该试着为该装置接通红石信号
+thaumicaugmentation.research.vis_regenerator.2=由于灵气再生器与本地灵气之间的微妙关系，我应避免在灵气总量较大的区域使用它。 我觉得这会使灵气污染更加严重。
+
+thaumicaugmentation.research.seal_copier.title=印记拷贝铃铛
+thaumicaugmentation.research.seal_copier.0=手动配置傀儡操作印记对于小型项目来说是很好的选择，但是当涉及到成堆的傀儡操作印记时，这将变得乏味且容易出错。 我应该研究一种快速配置大量傀儡操作印记的方法。
+thaumicaugmentation.research.seal_copier.1=我已经制定了印记拷贝铃铛的计划。我只需要用我需要的设置配置一个傀儡操控印记，然后用印记拷贝铃铛右键单击它即可。然后我只需要右键单击要应用该设置的其他所有印记。如果要清除铃铛内设置的印记，则需要在潜行时右键单击。然后就可以继续复制新设置。<BR>印记拷贝铃铛似乎无法与不是制造者本人的印记进行交互。 如果我与其他神秘使合作，我应该牢记这一点。
+
+thaumicaugmentation.research.seal_secure.title=操控印记:净土
+thaumicaugmentation.research.seal_secure.0=虽然我已经创造了一个让傀儡保护特定区域的傀儡操控印记，但我觉得这并不能充分利用战斗傀儡的全部潜能。应用守卫印记用于小区域的安全保护是目前傀儡能做到的极限，我想突破这个极限。
+thaumicaugmentation.research.seal_secure.1=对傀儡控制印记进行非常简单的修改之后，守卫印记变成了杀戮印记。这个操控印记将刺激任何有战斗能力的傀儡攻击他们能看到的范围内的任何威胁，而不是小范围内的威胁。不像其他大多数印记，这个印记没有一个可配置的区域——相反，这个印记会让附近的傀儡在印记的固定(但要大得多)范围内攻击敌对生物。然而，这意味着我应该格外小心确保傀儡不会攻击任何他们不应该攻击的东西，因为这样的意外结果是非常令人失望的
+thaumicaugmentation.research.seal_secure.2=我现在可以制造这个印记的高级版本。这个高级版本的印记可以让我更好地控制那些具有生物至上思想的战斗傀儡会攻击什么，以及他们是否应该只关心他们视线范围内的目标。
+
+thaumicaugmentation.research.more_auromancy.title=进一步的神秘学研究
+thaumicaugmentation.research.more_auromancy.0=我已经发现了不少元素核心效果，但我觉得还有很多东西要发现。基本要素有很多方面我没有尝试过，我一定会找到一些有用的东西。
+
+thaumicaugmentation.research.focus_light.title=核心效果:光源
+thaumicaugmentation.research.focus_light.0=虽然火确实会发光，但它可能有点。。。破坏性。创造一个完全致力于发出光的光源应该很简单。首先，我应该研究一些我已经接触到的光源。
+thaumicaugmentation.research.focus_light.1=Lux要素正是我所需要的-它创造了一个明亮的光源，无论它在哪里使用。光源甚至可以永远使用——这意味着如果我愿意的话，我可以用它来永久照明。<BR>我真的很想知道如果一个生物被施以这种效果会发生什么。
+
+thaumicaugmentation.research.warded_arcana.title=守护的奥秘
+thaumicaugmentation.research.warded_arcana.0=在浏览魔导手册中的一些旧手稿时，我遇到了一张手稿，描述了守护法术的应用。能够创建抵抗来自创建者之外的任何伤害的结界，看起来像我应该研究的东西。我应该研究一下我已经创造了出来的防护设备，源质罐子
+thaumicaugmentation.research.warded_arcana.1=我对源质罐子的研究为我提供了我所需要知道的一切——只要我先对物体使用特殊的符文，那么几乎所有的材料应该都能被保护。虽然我对这种技术非常感兴趣，但千里之行，始于足下。我认为最好先从简单的东西开始比如...一个箱子。
+thaumicaugmentation.research.warded_arcana.2=通过对普通的箱子进行一番改造后，我创造了一个容器，它不仅是所有外界力量所无法破坏的，而且也只能由我使用。这意味着我既不能使用传统的方法来取出和投入物品，例如漏斗，也不能使用傀儡，也许我将来的研究重心可以放在这上面。<BR>如果要移走箱子，我应该潜行然后使用法师护手右击。
+
+thaumicaugmentation.research.arcane_door.title=奥能之扉
+thaumicaugmentation.research.arcane_door.0=现在我已经掌握了守护法术的基本知识，我想我可以继续研究一些更高级的东西了。我读过的手稿描述了一扇坚不可摧的门，这听起来像是值得研究的东西。毕竟时不时就要更换被僵尸弄坏的门确实让人头大...
+thaumicaugmentation.research.arcane_door.1=我制造了手稿中所述的门，我将其称为奥能之扉。就像守护者箱子一样，奥能之扉只会为它们的主人打开，而且很难用正常的方法将其破坏掉。我还制作了三种不同的样式，分别使用了宏伟之木，银树和神秘锭来构筑门的主体。它们在功能上都是相同的，但这让我在装修时能拥有更多选择，对于一个有品位的神秘使来说这点还是挺重要的。<BR>如果要破坏掉奥能之扉，我只要潜行着用法师护手右键奥能之扉的下半部分就行了。<BR>如果将两扇奥能之扉相邻着放置的时候，这些门似乎是“智能”的，它们会一起打开和关闭。 多么方便。我还制造出了奥能之扉的活板门形式。 它们的工作方式与奥能之扉相同，只是外形更小，并且没有那么“智能”。
+
+thaumicaugmentation.research.ward_keys.title=门禁
+thaumicaugmentation.research.ward_keys.0=能够拥有私人物品是一件很美好的事，但有时我需要与我的同伴分享我的物品。我应该设计一种方法来选择性地授予访问权限。
+thaumicaugmentation.research.ward_keys.1=出于分享私人物品的需要，我制造出了三种钥匙，以允许我可以和其他人分享我想和他们分享的权限。我只要手持钥匙右键。就能将这把钥匙与我进行绑定。每个钥匙的工作方式都略有不同-我需要在以下页面上为每种类型的钥匙都写上一份书面说明，免得到时候忘记钥匙怎么用了。<PAGE>铁钥匙<DIV><IMG>thaumicaugmentation:textures/items/key_iron.png:0:0:255:255:0.125</IMG>这是三种钥匙中最简单的一种。要将铁钥匙与我绑定，我只需要手持钥匙对着空气右键（不需要对着任何方块）。然后它将允许任何持有钥匙的人打开我的守护者箱子，奥能之扉，亦或者奥术活板门。如果要解除钥匙绑定，我应该拿着钥匙潜行然后按下右键。<PAGE>黄铜钥匙<DIV><IMG>thaumicaugmentation:textures/items/Key_Brass.png:0:0:255:255:0.125</IMG>黄铜钥匙的功能和铁钥匙类似-用于绑定我的私人物品然后与其他人分享使用我的私人物品的权限，解除绑定也是同样的潜行右键。但是与铁钥匙不同的是，黄铜钥匙可以给予使用者更高的权限，使被授权者也可以向别人分享权限。要做到这一点，我只需要把绑定了的黄铜钥匙和一把未绑定的铁钥匙放在一个工作台上。这个过程不会消耗黄铜钥匙。神秘之钥将在下一节中介绍。 <PAGE>神秘之钥<DIV><IMG>thaumicaugmentation:textures/items/key_thaumium.png:0:0:255:255:0.125</IMG>神秘之钥的有趣之处在于它不仅绑定到我自身，还绑定到对象及其位置。换言之，神秘之钥绑定的权限是某个位置的单个受保护对象。要绑定神秘之钥，我需要拿着它右键需要绑定的守护者箱子，奥能之扉或者奥术活板门。即使移除并替换绑定对象，此绑定仍将有效，但前提是它仍与神秘之钥最初绑定到的对象类型相匹配。拿着神秘之钥潜行并按下右键即可解除绑定，就像黄铜钥匙一样。要复制一把绑定信息相同的神秘之钥，我需要把一把绑定了的神秘之钥和一把绑定人与这把神秘之钥绑定人相同的黄铜钥匙放在工作台上，然后在再放上一把没有任何绑定信息的神秘之钥。这或许有些麻烦...
+
+thaumicaugmentation.research.boots_void.title=虚空神秘使长靴
+thaumicaugmentation.research.boots_void.0=借助虚空金属，我可以升级我现有的大部分装备，让它们拥有更加卓越的性能。但鞋子始终是个大问题，我也许可以尝试将这种材料应用于旅行者之靴。
+thaumicaugmentation.research.boots_void.1=我已经成功地将旅行者之靴升级为一种更高级的形式，我称之为虚空神秘使长靴。虚空神秘使长靴的速度和跳跃高度都比原来的旅行者之靴有了较大的提升，这倒是意料之外的惊喜，虽然会以vis消耗略微增加为代价。和所有的虚空金属制品一样，虚空神秘使长靴也有自动修复的能力。最值得注意的是，穿上虚空神秘使长靴之后，掉落伤害将会大大降低，这使我在玩星跳水立方时拥有无与伦比的优势...如果只有我穿着的话。<BR>虚空神秘使长靴也可以染色。我只需要把虚空神秘使长靴和一个或多个染料放在工作台上，就能得到一个新的炫彩虚空神秘使长靴。把全套虚空神秘使套装都染上色你就是全村最靓的神秘使，如果想要洗掉染料，只需要将染了色的虚空神秘使长靴放进一个装了水的的炼药锅里就可以了。
+
+thaumicaugmentation.research.rift_studies.title=裂隙研究
+thaumicaugmentation.research.rift_studies.0=我认为腐化裂隙对我的研究比看起来更重要。当一个区域里的咒波过多时就会激活隐藏在空间中的腐化裂隙。我确信它们包含了到达更热情好客的地方的秘密...也许吧。<BR>但是，目前研究腐化裂隙需要我使咒波充满空间，这样的话研究不了多久环保局就得来找我喝茶了。将产生空间裂隙所需要的所有咒波包含在一个小的“种子”中，然后将其释放到目标区域中，而不是采用更麻烦的其他方法，这是目前我想出来最好的办法。我应该研究将大量咒波压缩到一个小空间中的方法。
+thaumicaugmentation.research.rift_studies.1=通过将大量的腐化源质集中到一个虚空种子中，产生的咒波将很快被其吸收，几乎肯定会产生一个裂缝。对于这些咒波种子，我应该非常小心，“种植”它们会立即释放其所含的所有咒波，从而消耗种子。<BR>如果我想利用这一点来创造腐化裂隙，那么我应该将更多的腐化源质注入到较小的咒波种子中。但是这样做的话，不仅注魔的不稳定性会随着添加的腐化源质的数量而增加，而且我似乎只能在特定的咒波种子上安全地进行此过程。
+
+thaumicaugmentation.research.gauntlet_augmentation.title=增强系统
+thaumicaugmentation.research.gauntlet_augmentation.0=虽然制造出像神秘法师护手这样的改进型法师护手非常棒，但现在我还无法提出新护手的设计。也许我应该花一些时间思考改善现有设计的方法。这也为我提供了一个思路，可以研发出一个模块化程度足够高的系统，从而在我的研究取得新进展时不需要不断更换法师护手。
+thaumicaugmentation.research.gauntlet_augmentation.1=我已经提出了一些初步计划，建立一个模块化系统，使施放核心更有效。所需的第一个组件是一种“谐振水晶”，可以为施法者提供额外的能量。然而，我需要某种过滤装置来实际利用这些额外的能量——我想我可以用类似于制造核心的方式来制造它。过滤装置被我称为“调节核心”。<BR>虽然我想能够应用各种各样的“谐振水晶”作为这些调节核心的能量提供者，但我应该从一些简单的东西开始。到目前为止，我所制造的法师护手都使用了一个魔力谐振器来与灵气建立链接。也许我可以制造一种谐振水晶，专门针对灵气的一个特定谐振频率，而不是过大的频谱范围。这种新的魔力谐振水晶应该能让法师护手更高效地利用Vis的特定谐振频率，允许任何具有相同频率的核心效果变得更有效。<BR>要真正实现增强效果，我就需要制作一个谐振水晶：元素，并将其与任何调节核心在工作台上组合起来。遗憾的是，一旦将它们组合起来，就不可能再次将它们分开。虽然我制定的计划是以Ordo魔力水晶碎片和调节核心：核心增强为例，但我应该可以让魔力水晶碎片和调节核心在工作台上任意组合，具体取决于我想使哪个方面变得更强大。
+thaumicaugmentation.research.gauntlet_augmentation.2=正如我所想，我制造出的完工的谐振水晶没有问题。然而，我在法师护手的施法测试中发现了一个不可预见的问题，虽然针对一个谐振频率是有利的，但有时一个或多个其他谐振频率会对谐振水晶的存在产生负面影响。它们在谐振频率方面似乎各不相同。我应该尝试我计划使用的谐振频率，以确保我希望使用的核心不会受到负面影响。我可以将谐振水晶与任何魔力水晶碎片放在工作台上，以交换谐振水晶里的魔力水晶碎片。<BR>至于增强系统本身，我将其设计成相当模块化的。正如我之前所做的那样，法师护手上的增强系统都是由一个谐振水晶（如谐振水晶：元素）和一个效果（三种调节核心之一：核心增强、施法速度和耗能减少）组成的。要将增强系统应用在设备上，我只需要将其与物品（目前为止主要是我的法师护手）放在工作台上进行合成，虽然看起来法师护手应该能够支持至少3种类型的谐振水晶没有问题，但组合更多的谐振水晶或相同类型的谐振水晶（就算是不同频率的调节核心）也是是不可能的。如果出于某种原因需要移除一个谐振水晶，将法师护手放置在一个工作台上就能移除最后一个添加的谐振水晶。<BR>遗憾的是，我一直无法制造出更好的的法师护手来支持我的增强系统。现有法师护手中使用的材料似乎无法承受增加的附加应力。管他呢，反正只是个原型。
+
+thaumicaugmentation.research.dimensional_modifiers.title=维度谐振水晶
+thaumicaugmentation.research.dimensional_modifiers.0=“谐振水晶：元素”可以通过对内部刺激的反应来提高施法的效果，同时也意味着我可以制作对外部刺激有反应的谐振水晶。其中最简单的就是构成我所能访问的维度的普通材料。我应该研究这些地方的一些材料样本，看看我是否可以使用它们来达到这个目的，并找到一种方法使我在这些材料的来源的维度能够做到对法师护手核心的增强。
+thaumicaugmentation.research.dimensional_modifiers.1=我已经制造出了三种不同的维度谐振水晶，每一种对外界的刺激都表现得很积极，这三种维度谐振水晶的材料分别来自于主世界，下界，和末地。维度谐振水晶本身的原理是在制造谐振水晶时加入该维度的材料以使晶体结构发生变化，当三种使用不同的材料制造出来的谐振水晶被带进它们所连接的维度时,这种晶体结构就会产生共振。虽然所有这些维度谐振水晶都会带来增益，但似乎下界的比主世界的谐振水晶增益更强，而末地的谐振水晶比两者都强。我不太清楚为什么会这样，特别是考虑到后一个维度的灵气水平通常比主世界低，我也许可以在未来的进一步研究中发现答案。
+
+thaumicaugmentation.research.emptiness_modifier.title=谐振水晶：虚空
+thaumicaugmentation.research.emptiness_modifier.0=访问了虚空之后，我觉得我应该能够制造一个新的维度谐振水晶，使我的法师护手和核心在那里能够发挥出更加好的效能，就像我目前制造的三个相对平凡的维度谐振水晶那样。
+thaumicaugmentation.research.emptiness_modifier.1=根据我以前制造维度谐振水晶的经验，为虚空制造一个维度谐振水晶是一个简单的任务。我只需要应用先前的维度谐振水晶制造原则，而不需要再用虚空的的特定资源来进行一大堆研究，不需要动脑子的事情谁想要动脑子呢，就算神秘使也一样。这个谐振水晶看起来和末地的谐振水晶一样强大，这个发现让我感到非常惊喜。我发现一个奇怪的巧合，越接近于虚无的维度所属的维度谐振水晶就越强大，末地和虚空都是星空中贫瘠的漂浮岛屿。这可能根本不是巧合。我担心这些维度中的邪术能量（在这些世界的物质中可见的异域要素、虚空要素和黑暗要素的数量）可能会对灵气产生影响。我不确定这可能带来的长期后果，但可以肯定的是，这是我今后必须监控的事情。
+
+thaumicaugmentation.research.frenzy_modifier.title=谐振水晶：流控
+thaumicaugmentation.research.frenzy_modifier.0=我在研究和试验谐振水晶方面的大部分努力都集中在被动效应上。我应该试着想个办法来主动积极地提高我的施法能力。<BR>通常通过法师护手的Vis流量都必须被调整为比较缓慢的速率，否则设备将无法正常工作。如果我足够频繁地使用此类Vis，应该就能在使用法师护手时慢慢增加此限制。这样做的主要问题是，要精确监视Vis使用中的这些细微差异并不是一件容易的事，尤其是对于我现有的设备而言。但是如果有其他方法可以间接测量我的Vis使用情况呢？<BR>我考虑过一种可能的方法来实现这一点——在我最近对傀儡学的研究中，我制造出了攻击组件，它让傀儡攻击其他生物。如果我能通过某种组件测量施法破坏某个物体时法师护手和核心的反应，那么我也许就能用它作为信号来加速整个法师护手中的Vis流量。我应该试一试我的理论，希望会像我想的那样奏效。
+thaumicaugmentation.research.frenzy_modifier.1=令人惊喜的是，我通过攻击组件来调节Vis流量的想法是成功的。通过对攻击组件进行一些小的调整，就能够让它咋在核心施法时检测对生物造成的伤害，并相应地输出一个可测量的信号。该模块将逐渐改善Vis通过法师护手和它上嵌的核心的流量。简单地说，如果我在相对较短的时间内持续对怪物或任何其他生物造成伤害，那么我的施法将逐渐变得越来越高效，越来越强大。如果我在一段时间内不使用法师护手，Vis流量将立即重置为其自然水平。
+thaumicaugmentation.research.experience_modifier.title=谐振水晶：求知
+thaumicaugmentation.research.experience_modifier.0=虽然我已经开始利用隐藏在经验球里的知识了，比如求知发带，但我觉得我可以利用这些经验球里的知识来更好地凝聚法术施法所涉及的魔法能量。知识与炼化学有本质上的联系，一个学富五车的人能够比一般人更好地操纵灵气，因为他们对灵气的流动有更好的理解，对操灵气的方式有更好的理解。通过利用经验球，我可能会找到另一种方法来提高我的施法能力。
+thaumicaugmentation.research.experience_modifier.1=通过研究获得的关于灵气的知识自然会提高一个人使用灵气的能力。因此通过获得的经验，无论是从日常活动还是更深奥的活动中获得的经验，都能用以增加人对灵气的理解，这是合乎逻辑的。我已经成功地制造出了一个特殊的谐振水晶，该谐振水晶通过我获得的经验改进了Vis的利用流程。即使经验不多，也应该能给我带来好处，尽管只是经验里的一小部分。我需要相当多的经验来充分利用这个谐振水晶-我想智慧不会轻易地借给没有经验的人。
+
+thaumicaugmentation.research.void_stone.title=来自虚空的石头
+thaumicaugmentation.research.void_stone.0=<IMG>thaumicaugmentation:textures/blocks/void_stone.png:0:0:255:255:0.125</IMG><BR>这种深色的石头可以在维度裂隙的周围找到。它很容易与自身的其他部分结合，这意味着它在破碎之后还能重新组合在一起。它也明显比普通石头软得多。
+thaumicaugmentation.research.void_stone.1=<IMG>thaumicaugmentation:textures/blocks/void_stone_soil_taint_side_0.png:0:0:255:255:0.125</IMG><BR>这层腐化物出现在虚空中污染区域的表面。虽然它仍然相对容易粘在一起，但似乎结合了某种古老的生物材料——类似于我以前研究过的腐化物品。它们不像正常的腐化方块，它们非常稳定，不会随着时间的推移扩散或腐烂。
+thaumicaugmentation.research.void_stone.2=<IMG>thaumicaugmentation:textures/blocks/void_stone_taint.png:0:0:255:255:0.125</IMG><BR>这种类型的虚空石是在虚空的腐化土地上发现的。就像土壤一样。它不会腐烂或扩散到附近的物质中。
+
+thaumicaugmentation.research.void_stone_usage.title=制造邪术石
+thaumicaugmentation.research.void_stone_usage.0=有一件事我还没有确认，那就是在血腥仪式中提到了一种特殊类型的石头，这种石头非常耐用，具有类似于奥术石材的魔法属性。虽然缺乏关于制造它的细节，但血腥仪式中提到了将紫色的石头和异域要素结合在一起。这紫色的石头听起来像是我最近发现的虚空石-这需要我自己调查一下。
+thaumicaugmentation.research.void_stone_usage.1=无论如何，这次血腥教徒们是对的。我能把一小块虚空石变成所描述的石头，我称之为邪术石。正如仪式所描述的那样，这块石头几乎能经受住任何爆炸，用镐和其他工具破坏要花费更长的时间。
+
+thaumicaugmentation.research.rift_power.title=元始能量
+thaumicaugmentation.research.rift_power.0=从裂隙中汲取能量来制造虚空种子本身是可行的，但我觉得我几乎没有触及利用裂隙能量的皮毛。在我找到这种能量的用途之前，我需要找到一种方法把这种能量转化为一种可用的形式。
+thaumicaugmentation.research.rift_power.1=多亏了之前进行的一些研究，所以我认定在一个特制的存储单元中可以保存来自裂隙的能量。这个存储单元需要有一个经过改造的的虚空种子作为核心，作为能量的受体。<BR>我想我应该给这种能量起个名字。因为裂隙能量似乎比我以前用过的Vis更不稳定，所以我认为合适的名字应该是“元始能量”。<BR>现在我只需要一个工具来提取能量。我相信我可以使用我的增强系统将某种能量抽取器安装到法师护手上，而不是为此目的制造专用工具。
+thaumicaugmentation.research.rift_power.2=我终于完成了我所需要的一切前置研究，现在可以开始钻研元始能量的使用了。我发明的装置不仅能从裂隙中提取能量，还能在某种程度上迅速地释放能量。为了开始研究，我应该先把能量抽取器安装在一个法师护手上。然后我只需要站在一个腐化裂隙附近，它就能慢慢地将能量从裂隙吸进存储单元里。<BR>就像虚空吸管一样，从腐化裂隙中吸取能量会导致裂隙变得更加不稳定，然后导致裂隙加速收缩——最终回归虚无。如果我不想不断地制造出新的裂隙，那么我应该让裂隙保持稳定，并且有一个正常的尺寸。<BR>我注意到了能量抽取器对法师护手本身的一种特殊影响。元始能量的存在似乎稍微增加了所有核心的效率，而这种变化是被动的，元始能量并不会被消耗。只要法师护手所安装的存储单元里有一些元始能量，那么这种情况就会持续下去——存储单元里元始能量的量似乎并不重要。
+
+research.f_STRONGPICKAXE.text=一种强大的采矿工具
+research.f_FLINTANDSTEEL.text=用于生火的工具
+research.m_CREEPER.text=一种会爆炸的生物（如果是这个世界是和平的，那么它的遗骸也行）
+
+thaumicaugmentation.research.focus_ward_coremod.title=核心效果：守护
+thaumicaugmentation.research.focus_ward_coremod.0=既然我已经成功地保护了个人物品，那么我想我可以开始研究一下如何对其他物品加以保护。虽然我怀疑对其他物品施加守护法术是否能够达到守护者箱子或者奥能之扉的强度，但任何额外的保护措施都值得研究一番。我应该尝试一些常见的破坏手段，以了解我能走多远。
+thaumicaugmentation.research.focus_ward_coremod.1=令人惊喜的是，我的实验结果比我预期的要好——我研究出了一种核心效果，能够保护简单的材料。简单材料是指像石头和泥土这样的惰性物质，没有特殊的性质。遗憾的是，机器被保护法术在时间上冻结了，这意味着像红石机器这样的物体在受保护时将无法正常工作。更复杂的机器根本就得不到保护。<BR>虽然我已经尽我所能在研究保护自己不受各种各样的伤害，但就目前为止我还是没有一种方法能保护自己不受伤害。尽管如此，被施以守护法术的可以做到不受手动破坏、普通爆炸、火焰焚烧、活塞的推动甚至让砂砾或沙子等方块无视重力的影响。<BR>有多种方法可以判断使用这种核心效果是否有防护措施-最简单的方法是尝试破坏方块。如果被破坏的方块上出现了能量波动，那么它就是受到了保护的方块。亦或是拿着装上了守护核心的法师护手，我就可以直接观察到守护能量在方块周围，在我的施法作用范围内的方块如果被保护了就会有闪光效果。这种闪光效果的颜色似乎与施法者有关——如果我是施法者，粒子就是绿色的，但如果不是我，粒子就是红色的。<BR>若要移除方块上的守护法术，那么我只需对着被保护的方块再施加一次守护法术即可。如果一个被保护的方块被摧毁，那么方块上的保护效果也会从那个地方消失。<BR>最后，我应该小心选择保护的地方。虽然尝试给不同的物体施加守护法术可能会很有趣，但我在现在涉及的还是一个未知的领域。我不能确定每一个方块都能被保护。
+thaumicaugmentation.research.focus_ward_coremod.2=傀儡在行动时似乎忽略了被守护的物体的存在。如果我发现我的傀儡在漫无目的地游荡，而不是做它们应该做的事情，比如伐木，那么我应该确保它们应该与之互动的方块没有被守护，比如一棵树。
+thaumicaugmentation.research.focus_ward_coremod.3=奥术钻探机在进行采掘作业的时候会忽略被守护的方块，这点自然是极好的，但是奥术钻探机并不会绕到被守护的方块后面去采掘后面的方块，被守护的方块会阻止奥术钻探机挖掘自身后面的方块，如果想让奥术钻探机正常工作，那么就应该确保奥术钻探机的工作区域内没有被守护的方块
+thaumicaugmentation.research.focus_ward_coremod.4=核心效果：裂隙不会对被守护的方块起作用
+thaumicaugmentation.research.focus_ward_coremod.5=核心效果：更替不会对被守护的方块起作用
+
+thaumicaugmentation.research.focus_ward_no_coremod.title=Focus Effect: Ward
+thaumicaugmentation.research.focus_ward_no_coremod.0=Now that I have successfully warded individual objects, I think I should look into applying warding thaumaturgy to arbitrary materials in the world. While I doubt that any given material will be able to match the strength of dedicated warded blocks, any extra protection is worth investigating. I should experiment with some common means of destruction to get an idea of how far I can go with this.
+thaumicaugmentation.research.focus_ward_no_coremod.1=Surprisingly, my experiments went better than I expected - I have created a focus effect capable of warding any simple material placed in the world. "Simple materials" includes objects like stone and dirt that are inert and exhibit no special properties. Sadly, machines are rendered frozen in time by the ward focus, meaning that objects like redstone mechanisms will not work properly while warded. More complex machines will fail to be warded at all.<BR>While I have done my best to protect against as many different methods of destruction as I could, I know I cannot protect against them all. Despite this, I am certain that warded blocks should be immune to manual breaking, normal explosions, fire damage, and even the effect of gravity on blocks such as gravel or sand.<BR>There are multiple ways to tell if something is warded using this focus effect - the easiest is to punch it. If energy seems to ripple from the impact, then it is surely warded. Holding any casting gauntlet with a warding focus equipped will allow me to directly observe the warding energies around blocks, giving them a shimmering effect in a small area around where I am looking. The color of this shimmering effect seems to be related to the caster - the particles will be green if I was the caster, but red if it was not me.<BR>To remove the ward on a block, I just need to recast the ward focus on it. In the event that a block is somehow destroyed even while warded, the protection of the ward will fade from that location.<BR>Lastly, I should be careful with what I choose to ward. While experimenting with different objects can be fun, I'm still dealing with an uncharted area of thaumaturgy. I can't be sure that every block will still work perfectly.
+thaumicaugmentation.research.focus_ward_no_coremod.2=Golems seem to ignore the presence of warded objects when going about their business. If I find that my golems are wandering aimlessly instead of doing their tasks, I should ensure that the blocks they are supposed to interact with are not warded.
+thaumicaugmentation.research.focus_ward_no_coremod.3=It appears that the Arcane Bore's one-track clockwork mind is quite confused by the idea of warded blocks. If the next block it would mine is warded, the bore will unsuccessfully attempt to mine it forever. I should ensure the mining area is clear of warded blocks if I wish to use the Arcane Bore.
+thaumicaugmentation.research.focus_ward_no_coremod.4=As the rift focus effect just moves blocks somewhere else, and doesn't otherwise damage them, those rifts will be able to be created on warded blocks. I should keep this in mind if I am trying to deny access to an area and there are other Thaumaturges around.
+thaumicaugmentation.research.focus_ward_no_coremod.5=As the exchange focus effect simply replaces one type of block for another by swapping their position, warded blocks can still be exchanged. However, the ward should at least remain on the exchanged blocks, but I should still take care if there are other practitioners of Thaumaturgy in the area.
+
+thaumicaugmentation.research.fracture_theory.title=发现虚空
+thaumicaugmentation.research.fracture_theory.0=我一直在试图确定是否有可能打开一个腐化裂隙让我进入另外一个维度而不会迅速死亡。虽然我认为我不可能自己打开一个，但我有一个理论，有些连通两个维度又能让我进入的裂隙可能是自然存在的。然而，现实结构中的这些裂隙只能出现在某些特定的地方，在这些地方，维度之间的屏障比正常的地方要更薄。我应该制造一个装置，一个可以帮我找到这些地方的装置。
+thaumicaugmentation.research.fracture_theory.1=我已经研究出了一个装置的，这个装置应该能够带我找到连通两个维度的裂隙。通过将虚空魔力水晶碎片与一些稀土进行结合，便能让魔力水晶碎片将对裂隙的反应反馈到装置上。我还需要使用一些普通的材料作为外壳及其他非核心部件，比如黄铜，因为使用神秘锭或虚空金属可能会使它受到干扰，而无法得到准确的读数。<BR>如果我面向裂隙，那么装置中的虚空魔力水晶将会发光。光线越强，就越接近正确的方向。不幸的是，裂隙磁石的探测范围似乎有限。我没有任何精确的测量方法，但一些快速的测试表明，在地面与地平线的交界处，它探测裂隙的效率急剧下降。我的研究似乎表明了一点，由于这些裂隙的异常，导致裂隙所处的地方空间都被极大地压缩了，就像下界那样。也许我应该去进行一番研究。
+
+thaumicaugmentation.research.entering_fracture.title=去虚空旅游吧
+thaumicaugmentation.research.entering_fracture.0=现在我已经相当确定连通两个维度的裂隙是存在着的，我应该找到并研究其中的一个，以确定我的下一步行动计划。
+research.m_DIMENSIONALFRACTURE.text=找到一个维度裂隙
+thaumicaugmentation.research.entering_fracture.1=我关于维度裂隙的理论已经证明是正确的。这是进入裂隙另一端的虚空的关键一步，但有一个小问题。裂隙没有完全连接到另一侧。我也许能用爆发性的能量将其撕开，比如说元始能量<BR>我所需要做的就是用安装了储存有元始能量的元始能量电池的法师护手对维度裂隙释放元始能量，等待几秒钟后裂缝应该就能完全打开。我不知道另一端可能是什么，维度裂隙周围的地面可能会给我一些提示。尽管可能会有危险，但我现在才回头已经为时已晚。
+research.m_ENTERVOID.text=发现另一端是什么
+thaumicaugmentation.research.entering_fracture.2=虽然这里看上去都是一望无际的黑暗荒原，但我在这里找到了更有趣的东西，这里有超多的维度裂隙-根据我的研究它们在另一端的出口都应该远离彼此才对。这里的维度裂隙还连通着许多不同的维度。也许可以利用这些维度缝隙实现超距离旅行。<BR>如果我想在这里打开更多的维度裂隙，我就只需要重复我在主世界做的事情-使用安装了储存有元始能量的元始能量电池的法师护手对维度裂隙释放元始能量，然后等待几秒钟。<BR>虽然这个地方大部分时候看起来都异常安静，但腐化地区却生机勃勃。我在腐化地区时要非常小心，腐化可是非常非常危险的。
+thaumicaugmentation.research.entering_fracture.3=因为邪术守卫的任务是守护维度之间屏障最弱的地方，所以我有一种感觉，他们可能不喜欢我打开维度裂隙。我打开维度裂隙时应该做好准备，他们可能并不欢迎我这样的访客。
+
+thaumicaugmentation.research.morphic_tool.title=变形工具
+thaumicaugmentation.research.morphic_tool.0=我自己正在制造出越来越优秀的工具。虽然我的旧工具可能比这些新工具要低效得多，但我可能会觉得发现它们的外观更适合我个人的口味。我不应该在力量和虚荣心之间妥协——我应该尝试找到一种方法来制造一种工具，这种工具可以有一种物品的外观，但有另一个物品的属性，既神奇又平凡。为了达成这个目的，我也许可以对元始杵独特的玄学性质进行一番研究。
+thaumicaugmentation.research.morphic_tool.1=我创造了一种有效地将两个物品组合到同一空间的方法。借助于一颗元始珍珠和少量的虚空，我可以让两个物品存在于同一空间，而只有一个物品的外观是外部观察可见的。另一个物品化为这个新的变形工具的其他属性，如攻击力和耐久度。而在这种状态下，用来当做外观的物品将被保持在一种虚缈的状态，这意味着虽然它不会被损坏，但它亦不能以任何方式与这个世界互动。<BR>要制造这种神奇的工具，我需要利用奥术注魔台，将我想要保持除了外观外其他属性的物品放在中心，并将想要当做外观的物品放在外围基座上（当然还有其他必备物品）。如果我想把这两个物品分开，我只需要把工具放进工作台里-似乎分开它们需要的能量比将它们结合在一起需要的能量少得多。<BR>正如我观察到的，提供属性的物品在与提供外观的物品组合时会有破裂的风险。虽然结合在了一起，但无法通过传统方法（像是铁砧）进行修复。然而，像虚空金属这样的材料仍然保持了其再生性能。我也确信某些更复杂的物品制作成变形工具后不会正常工作。基本的手持工具会正常工作，就算上附有常规的（使用附魔台等）附魔以及基于注魔法的附魔也都会正常工作，护甲之类的物品虽然能结合，但是不会起作用。<BR>变形工具似乎提供了一种轻微的绝缘效果，以抵抗物品造成的扭曲。也许我将来应该重新审视这一现象。
+
+thaumicaugmentation.research.primal_cutter.title=元始锏
+thaumicaugmentation.research.primal_cutter.0=元始杵已经证明了自己是一个特别有用的工具，它是四种工具的集合体。令人遗憾的是，元始杵本身在某些方面仍然是有限的，比如说作为一种武器使用，因为它的体型相当庞大，所以它的攻击间隔并不适合作为武器使用。这是一种相当迟钝的工具。然而对我来说，将形态不稳定性原理应用于不同的工具组合应该是可行的。。。比如说，一套切割工具？
+thaumicaugmentation.research.primal_cutter.1=我根据我的理论研究提出了一种新武器：元始锏。和它的前身一样，它实际上是四个形态不稳定的工具，它们彼此之间的波动快到它们就像是一个工具。<BR>这种工具与元始杵的主要区别在于，它的结构中使用了和元始杵不一样的工具。元始锏的作用非常像斧头和剑。它比元始杵轻便得多，我可以很轻易地把它舞起来，让我能够将我的敌人大卸八块。<BR>这件工具不仅保留了风雷剑的弧光能力和奔流斧的收集能力，还保留了另外两种独特的能力。两者中比较简单的是一种强大的削弱-比虚空剑的削弱能力更强大，元始锏获得的另外一种能力则更有趣，通过持续使用元始锏可以拉近物品和生物的距离。我能想到这个新技能的很多用途，但在使用该能力时我也必须小心-被吸引住的实体会很快向我移动，并且在使用这个能力时，元始切割者会消耗额外的耐久。<BR>通过将武器放置在工艺网格中，可以禁用此能力。如果我想双持使用其他工具或物品，这会很有用。<BR>尽管元始锏的能力与元始杵截然不同，但它仍具有元始杵的一些特性。除了像所有的虚空金属一样可以不断再生之外，它握起来的感觉也和元始杵一样不太舒服，因为虚空金属会不知不觉地略微变换形状。不过这并不妨碍我使用它。<BR>我不会忘记这种感觉。
+
